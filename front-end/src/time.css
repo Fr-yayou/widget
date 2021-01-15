@@ -1,0 +1,26 @@
+#clock {
+    font-family: 'Share Tech Mono', monospace !important;
+    color: #000000;
+    text-align: center;
+    color: #000000;
+    text-shadow: 0 0 20px rgb(42, 163, 233);
+    padding-top: 40%;
+    margin-left: 15%;
+    width: 15rem;
+}
+
+#clock .time {
+        letter-spacing: 0.05em;
+        font-size: 40px;
+        padding: 5px 5px;
+        margin:0px;
+    }
+#clock .date {
+        letter-spacing: 0.1em;
+        font-size: 15px;
+    }
+#clock .text {
+        letter-spacing: 0.1em;
+        font-size: 12px;
+        padding: 20px 0 0;
+    }
